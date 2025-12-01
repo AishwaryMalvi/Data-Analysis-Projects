@@ -51,12 +51,17 @@ Temperature patterns, humidity trends, rainfall distribution, and seasonal varia
 •🛠️ Skills Demonstrated
 
 -Data Cleaning & Preprocessing
+
 -Handling Missing Values
+
 -Exploratory Data Analysis (EDA)
+
 -Data Visualization (Matplotlib, Seaborn, Plotly)
+
 -Statistical Analysis
+
 -Feature Engineering
 
-Working with Large-Scale Real Datasets
+-Working with Large-Scale Real Datasets
 
-Python Scripting & Notebook-Based Analysis
+-Python Scripting & Notebook-Based Analysis
